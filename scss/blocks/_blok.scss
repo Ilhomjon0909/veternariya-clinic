@@ -1,0 +1,242 @@
+.blok {
+  width: 1440px;
+  height: 2613px;
+  background: #f9f9f9;
+  margin-left: 55px;
+  margin-top: -48px;
+}
+
+.blok__head {
+  color: #333;
+  font-family: Futura PT;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 64px;
+  margin-left: 177px;
+  transform: translateY(100px);
+}
+
+.blok__text {
+  width: 447px;
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  margin-left: 177px;
+  transform: translateY(80px);
+}
+
+.blok__images {
+  width: 415px;
+  height: 317px;
+  flex-shrink: 0;
+  margin-left: 830px;
+  margin-top: -150px;
+}
+
+.blok__list {
+  list-style: none;
+  width: 1308px;
+  height: 525px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 1px solid #f3f3f3;
+  background: #fff;
+  margin-left: 65px;
+  display: flex;
+}
+
+.blok__item {
+  //   margin-left: 20px;
+  margin-top: 68px;
+  margin-left: 8px;
+}
+
+.blok__images1 {
+  width: 558px;
+  height: 525px;
+  flex-shrink: 0;
+  border-radius: 5px 0px 0px 5px;
+  margin-left: -45px;
+  margin-top: -1px;
+}
+
+.blok__item--link {
+  text-decoration: none;
+  color: #3d9cea;
+  text-align: center;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  //   line-height: 2px;
+  margin-left: 70px;
+}
+
+.blok__item--link1 {
+  text-decoration: none;
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 242px;
+}
+
+.blok__h2 {
+  width: 325px;
+  color: #333;
+  font-family: Futura PT;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: -594px;
+  margin-top: 100px;
+}
+
+.blok__text1 {
+  width: 517px;
+  height: 163px;
+  flex-shrink: 0;
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  margin-top: 221px;
+  //   margin-right: 1850px;
+  margin-left: -320px;
+}
+
+.blok__images2 {
+  width: 23px;
+  height: 20.948px;
+  transform: rotate(-15deg);
+  flex-shrink: 0;
+  margin-left: 700px;
+  transform: translateY(-100px);
+  //   margin-right: 640px;
+}
+
+.blok__p {
+  color: #333;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 725px;
+  transform: translateY(-135px);
+}
+
+.blok__list1 {
+  list-style: none;
+  //   margin-left: 25px;
+  display: flex;
+}
+
+.blok__item1 {
+  width: 305px;
+  height: 435px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 1px solid #e4e4e2;
+  margin-left: 30px;
+  //   background: #f9f9f9;
+}
+
+.blok__images3 {
+  width: 100%;
+  height: auto;
+  flex-shrink: 0;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.blok__h6 {
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 212px;
+  transform: translateY(-20px);
+}
+
+.blok__txt {
+  width: 182px;
+  height: 48px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Futura PT;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 113.636% */
+  margin-left: 30px;
+  margin-top: -50px;
+}
+
+.blok__text2 {
+  color: #949494;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 125% */
+  margin-left: 30px;
+}
+
+.blok__img {
+  width: 23px;
+  height: 20.948px;
+  transform: rotate(-15deg);
+  flex-shrink: 0;
+  margin-left: 22px;
+}
+
+.blok__h61 {
+  color: #333;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 54px;
+  margin-top: -25px;
+}
+
+.button__btn--blok {
+  width: 201px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 3px;
+  background: #333;
+  margin-left: 624px;
+  margin-top: 116px;
+}
+
+.button__btn--images {
+  width: 19px;
+  height: 15.545px;
+  flex-shrink: 0;
+}
+
+.button__btn--a {
+  width: 96px;
+  height: 18px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
+}

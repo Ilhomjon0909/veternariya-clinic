@@ -1,0 +1,24 @@
+html{
+    scroll-behavior: smooth;
+   }
+   
+   body  {
+    padding: 0 ;
+    margin: 0 ;
+    box-sizing: border-box;
+    font-family: 'Arrial' sans-serif;
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    background-color: #ffffff;
+   }
+   
+   *, ::after, ::before{
+    box-sizing: inherit;
+   }
+   
+   .container {
+       max-width: 1440px;
+       margin: 0 auto;
+       padding: 0 20px;
+   }
+   
